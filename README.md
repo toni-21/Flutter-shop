@@ -1,4 +1,4 @@
-# flutter Shop
+# Flutter Shop
 
 A new Flutter project.
 
